@@ -18,6 +18,8 @@ behind it, no Docker required but notes included where Docker is used instead.
 3. [[03-nginx/README|Nginx hardening]]
 4. [[04-app-hardening/README|App-layer hardening]] (PHP, Node, uploads, secrets)
 5. [[05-monitoring-backups/README|Monitoring, logging, backups]]
+6. [[06-audit-logging/README|Audit logging]] — SSH session logging, file-change auditing, CPU/resource
+   incident forensics
 
 ## Ground rules
 
